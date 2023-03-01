@@ -6,7 +6,7 @@ Opinion mining has been becoming a prominent part of our new digitalized life. T
 
 This project uses dataset from Kaggle. The dataset is impoerted, transformed, analyzed and visualized using Pyhton in jupyter notebook. I have used Naive bayes algorithm and Random forest algorithm to analyze and compared their accuracy.
 
-# Datasset description and sample data
+# Dataset description and sample data
 
 The Dataset (predictiondata.csv) which we are using contains 530 records, in which
 each record contains:
